@@ -1,9 +1,10 @@
-com\dorzhi\content\Content.class
 com\dorzhi\services\MediaServiceImpl.class
 com\dorzhi\content\Book.class
-com\dorzhi\dao\MediaDao.class
-com\dorzhi\Program.class
+com\dorzhi\util\AppConfig.class
 com\dorzhi\content\UserInfo.class
 com\dorzhi\dao\MediaDaoImpl.class
+com\dorzhi\content\Content.class
+com\dorzhi\controller\HomeController.class
+com\dorzhi\dao\MediaDao.class
 com\dorzhi\content\Music.class
 com\dorzhi\services\MediaService.class

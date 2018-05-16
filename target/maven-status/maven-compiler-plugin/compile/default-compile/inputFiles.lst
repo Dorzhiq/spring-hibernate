@@ -1,9 +1,10 @@
+C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\util\AppConfig.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\content\UserInfo.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\content\Book.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\dao\MediaDao.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\services\MediaServiceImpl.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\dao\MediaDaoImpl.java
-C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\Program.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\services\MediaService.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\content\Content.java
 C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\content\Music.java
+C:\java_projects\sources\springhibernate\src\main\java\com\dorzhi\controller\HomeController.java
